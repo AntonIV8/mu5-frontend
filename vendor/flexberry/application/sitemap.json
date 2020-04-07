@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Mu5",
+  "applicationTitle": "Mu5",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mu5",
+      "caption": "mu5",
+      "title": "mu5",
+      "children": [
+        {
+          "link": "i-i-s-mu5-a3-l",
+          "menuName": null,
+          "caption": "A3",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
